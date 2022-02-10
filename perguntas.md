@@ -9,3 +9,6 @@ A pasta onde será colocado os arquivos do projeto.
 
 4.O QUE É MERGE?
 Junção das branch.
+
+5.O QUE É PULL?
+Trás as alterções do repositório remoto para o local.
