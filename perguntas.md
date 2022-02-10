@@ -5,4 +5,7 @@ Pegar as informações remoto e clonar para o repositório local.
 Empacotamento de um grupo de alterações.
 
 3.O QUE É UM REPOSITÓRIO?
-A psta onde será colocado os arquivos do projeto. 
+A pasta onde será colocado os arquivos do projeto. 
+
+4.O QUE É MERGE?
+Junção das branch.
