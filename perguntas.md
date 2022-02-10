@@ -12,3 +12,6 @@ Junção das branch.
 
 5.O QUE É PULL?
 Trás as alterções do repositório remoto para o local.
+
+6.O QUE É BRACH?
+Ramificação dos repositórios.
