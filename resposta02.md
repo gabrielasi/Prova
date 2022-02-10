@@ -4,3 +4,6 @@ alterações das quais você fez push para um branch em um repositório no GitHu
 
 O QUE É FORK?
 Uma cópia de um repositório.
+
+O QUE É VCS?
+Software de controle de versão.
